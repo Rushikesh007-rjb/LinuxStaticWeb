@@ -1,1 +1,1 @@
-# LinuxStaticWeb
+# linux-journey
